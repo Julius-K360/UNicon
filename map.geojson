@@ -1,17 +1,16 @@
-
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "Berlin"
-      },
+      "properties": {},
       "geometry": {
-        "coordinates": [13.4050, 52.5200],
+        "coordinates": [
+          6.691647857454711,
+          51.198178153321635
+        ],
         "type": "Point"
       }
     }
-    // Weitere Features können hier hinzugefügt werden
   ]
 }

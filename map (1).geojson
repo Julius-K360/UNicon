@@ -1,1 +1,20 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"coordinates":[31.835328197884365,19.053316677707997],"type":"Point"}},{"type":"Feature","properties":{},"geometry":{"coordinates":[47.680991251699766,45.119860697199584],"type":"Point"}},{"type":"Feature","properties":{},"geometry":{"coordinates":[22.986467604183474,-0.9327661727937766],"type":"Point"}}]}
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4658271,48.1825304 ]
+    },
+    "properties": {
+    "DocSet ID":975329,
+    "Name of DocSet":"EUATVIE01ORG",
+    "Orga Unit":"Wien 1",
+    "Horizon Lease ref":"EUATVIE01ORG",
+    "Region":"Europe",
+    "Rental premises":"#176920549",
+    "Country":"Austria",
+    "City":"Wien",
+    "Street no.":"8-10",
+    "Street":"Freudenauer Hafenstraße",}}]}

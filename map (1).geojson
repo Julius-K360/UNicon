@@ -1,74 +1,245 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 16.4658271,48.1825304 ]
-    },
-    "properties": {
-    "DocSet ID":975329,
-    "Name of DocSet":"EUATVIE01ORG",
-    "Orga Unit":"Wien 1",
-    "Horizon Lease ref":"EUATVIE01ORG",
-    "Region":"Europe",
-    "Rental premises":"#176920549",
-    "Country":"Austria",
-    "City":"Wien",
-    "Street no.":"8-10",
-    "Street":"Freudenauer Hafenstraße",
-    "Status of lease":"Indefinite",
-    "Horizon Property Name":"Wien",
-    "Lease start":"2018-04-01 00:00:00.0",
-    "Lease expiry":"2099-12-31 00:00:00.0",
-    "Lease effective expiry":"n/a",
-    "Total gross area of rental unit(s)":"398.550000",
-    "Unit":"m2",
-    "Landlord":"#176920543",
-    "Name":"Wiener Hafen und Lager Ausbau- und Vermögensverwaltung, GmbH & Co KG",
-    "Tenant":"#176920554",
-    "Name":"Rhenus Logistics GmbH",
-    "Horizon Group ref":"00000013",
-    "Client business unit":"Air & Ocean",
-    "Contractual deposit (1)":"#176920773",
-    "Additional notes":"Die Mieterin erlegt als Kaution für alle Ansprüche der Vermieterin aus diesem Vertragsverhältnis vor Beginn des Mietverhältnisses einen Betrag in der Höhe von € 9.000,-- in das Depot der Vermieterin. Die Barkaution ist nach Beendigung des Mietverhältnisses und ordnungsgemäßer Rückstellung des Mietobjektes verzinst (Zinssatz für täglich fällig werdende Einlagen) an die Mieterin zurückzuzahlen. Die Mieterin ist nicht berechtigt, irgendeine Forderung gegen die Kaution aufzurechnen. Eine durch Inanspruchnahme verbrauchte Kaution oder verbrauchte Kautionsteile sind von der Mieterin unverzüglich zu ergänzen",
-    "Amount":"9000.000000",
-    "Unit":"EUR",
-    "Contractual deposit (2)":"",
-    "Additional notes":"",
-    "Amount":"",
-    "Unit":"",
-    "Contractual deposit (3)":"",
-    "Additional notes":"",
-    "Amount":"",
-    "Unit":"",
-    "Contractual deposit (4)":"",
-    "Additional notes":"",
-    "Amount":"",
-    "Unit":"",
-    "Contractual deposit (5)":"",
-    "Additional notes":"",
-    "Amount":null,
-    "Unit":"",
-    "Contractual deposit (6)":"",
-    "Additional notes":"",
-    "Amount":null,
-    "Unit":"",
-    "Contractual deposit (7)":"",
-    "Additional notes":"",
-    "Amount":null,
-    "Unit":"",
-    "Contractual deposit (8)":"",
-    "Additional notes":"",
-    "Amount":null,
-    "Unit":"",
-    "Missing documents":"",
-    "Workflow state":"R2 done",
-    "Language of DocSet":"de",
-    "Active":"Yes",
-    "Reason":"n/a",
-    "Last Status Updated":"08-11-2022 09:10:10",
-    "Last Edited On":"27-11-2023 10:00:34"
-    }
-  }]}
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 16.4658271,48.1825304 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Europe",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [  8.510556555481287,
+        47.16632024089651 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Europe",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 12.333715608588136,
+        49.422321869719354 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Europe",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77.94363227434437,
+        39.368879807293865 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"America",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [  9.61187869065813,
+        52.70681094397639 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Europe",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 13.27058673737588,
+        52.6500282806592 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Europe",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 19.60795665625949,
+        -15.43651590630968 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Africa",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 98.71543898667386,
+        36.35950831490676 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Asia",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     },
+
+
+
+
+
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [  12.672187453066925,
+        52.82624096481476 ]
+     },
+     "properties": {
+     "DocSet ID":10000,
+     "Name of DocSet":"EUATVIE01ORG",
+     "Orga Unit":"Wien 1",
+     "Horizon Lease ref":"EUATVIE01ORG",
+     "Region":"Europe",
+     "Rental premises":"#5000",
+     "Country":"Austria",
+     "City":"Wien",
+     "Street no.":"8-10",
+     "Street":"Freudenauer Hafenstraße",
+     "Horizon Property Name":"Wien",
+     "Total gross area of rental unit(s)":"50000",
+     "Unit":"m2",
+     "Landlord":"#176920543",
+     "Client business unit":"Air & Ocean"
+     
+     }
+
+}]}

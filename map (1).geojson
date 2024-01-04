@@ -33,12 +33,12 @@
         39.368879807293865 ]
      },
      "properties": {
-     "DocSet ID":10000,
-     "Name of DocSet":"EUATVIE01ORG",
+     "DocSet ID":100,
+     "Name of DocSet":"AMEATVIE02ORG",
      "Orga Unit":"Wien 1",
-     "Horizon Lease ref":"EUATVIE01ORG",
+     "Horizon Lease ref":"AMEATVIE01ORG",
      "Region":"America",
-     "Rental premises":"#5000",
+     "Rental premises":"#400",
      "Country":"Austria",
      "City":"Wien",
      "Street no.":"8-10",

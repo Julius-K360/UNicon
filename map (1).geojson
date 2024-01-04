@@ -1,57 +1,137 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 16.4658271,48.1825304 ]
-     },
-     "properties": {
-     "DocSet ID":10000,
-     "Name of DocSet":"EUATVIE01ORG",
-     "Orga Unit":"Wien 1",
-     "Horizon Lease ref":"EUATVIE01ORG",
-     "Region":"Europe",
-     "Rental premises":"#5000",
-     "Country":"Austria",
-     "City":"Wien",
-     "Street no.":"8-10",
-     "Street":"Freudenauer Hafenstraße",
-     "Horizon Property Name":"Wien",
-     "Total gross area of rental unit(s)":"50000",
-     "Unit":"m2",
-     "Landlord":"#176920543",
-     "Client business unit":"Air & Ocean"
-     
-     },
-
-"type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ -77.94363227434437,
-        39.368879807293865 ]
-     },
-     "properties": {
-     "DocSet ID":100,
-     "Name of DocSet":"AMEATVIE02ORG",
-     "Orga Unit":"Wien 1",
-     "Horizon Lease ref":"AMEATVIE01ORG",
-     "Region":"America",
-     "Rental premises":"#400",
-     "Country":"Austria",
-     "City":"Wien",
-     "Street no.":"8-10",
-     "Street":"Freudenauer Hafenstraße",
-     "Horizon Property Name":"Wien",
-     "Total gross area of rental unit(s)":"50000",
-     "Unit":"m2",
-     "Landlord":"#176920543",
-     "Client business unit":"Air & Ocean"
-     
-     }
-
-
-
-     
-}]}
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          45.029566499679646,
+          22.449882673482904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          26.717338268657983,
+          12.922486136453031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          98.71543898667386,
+          36.35950831490676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          19.60795665625949,
+          -15.43651590630968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          13.27058673737588,
+          52.6500282806592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          9.61187869065813,
+          52.70681094397639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -77.94363227434437,
+          39.368879807293865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          8.510556555481287,
+          47.16632024089651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          12.333715608588136,
+          49.422321869719354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          4.734221738742008,
+          51.10962802808467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          9.860531536818371,
+          50.59722005240096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          9.794740404231987,
+          49.82474742217815
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
